@@ -1,2 +1,2 @@
 # ReduxSimpleStarter
-React Redux Sample Project
+React Redux Simple Project
